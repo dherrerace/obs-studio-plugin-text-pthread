@@ -43,8 +43,8 @@ using pango, adding features like Markup, Transitions and others.
 
 
 %changelog
-* Sat Apr 17 2025 Diego Herrera <dherrera@redhat.com> - 2.0.5-1
-- First commit
+* Fri Apr 17 2025 Diego Herrera <dherrera@redhat.com> - 2.0.5-1
+- Update to 2.0.5
 
 * Sat Aug 12 2023 Diego Herrera <dherrera@redhat.com> - 2.0.2-1
 - First commit
