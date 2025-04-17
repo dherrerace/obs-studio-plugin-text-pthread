@@ -1,7 +1,7 @@
 %global srcname obs-text-pthread
 
 Name:           obs-studio-plugin-text-pthread
-Version:        2.0.2
+Version:        2.0.5
 Release:        1%{?dist}
 Summary:        OBS text display plugin with many advanced features
 
@@ -43,5 +43,8 @@ using pango, adding features like Markup, Transitions and others.
 
 
 %changelog
+* Sat Apr 17 2025 Diego Herrera <dherrera@redhat.com> - 2.0.5-1
+- First commit
+
 * Sat Aug 12 2023 Diego Herrera <dherrera@redhat.com> - 2.0.2-1
 - First commit
